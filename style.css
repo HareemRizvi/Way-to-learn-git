@@ -1,0 +1,357 @@
+.helo{
+    background-color: rgb(49,109,195);
+    border: 8px solid rgb(49,109,195);
+}
+.her{
+    margin:5px 60px;
+    display: inline-block
+}
+.rat{
+    margin: 8px;
+}
+.meet{
+    display: inline-block;
+    width: 600px solid rgb(49,109,195);
+    text-indent: 50px;
+    color: white;
+}
+.sm{
+    color:rgb(66, 121,0);
+    border:1px solid rgb(66, 121,0) ;
+    padding: 5px 10px 5px 10px;
+    font-size:10px;
+}
+.smk{
+    display: inline-block;
+    margin: 3px 50px;
+}
+.brand{
+    margin: 10px 70px;
+    display: inline-block;
+}
+ul , li{
+    list-style-type: none;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 10;
+    color: black;
+    
+}
+.line{
+    text-align: center;
+    font-weight: 700;
+    padding: 0px 0px 50px 0px;
+}
+.inaline{
+    color: #427900;
+    display: inline-block;
+    line-height: 0;
+    font-weight:900 ;
+}
+
+.men{
+    width: 100%;
+    background-color: rgb(247, 248, 250);
+}
+.smart{
+    display: inline-block;
+    border: 5px solid rgb(247, 248, 250) ;
+    
+}
+.home{
+    border-radius: 20px;
+    background-color: rgb(49, 109, 195);
+    text-decoration: none;
+    padding: 10px 5px 10px 5px;
+    width: 90px;
+    text-align: center;
+    color: white;
+}
+.item{
+    color: black;
+}
+#int{
+    color: rgb(49, 109, 195);
+    font-family: "Merriweather";
+    font-weight: 600;
+    font-size: 29px;
+} 
+#ro{
+    color: rgb(66,121,0);
+    font-family: "Merriweather";
+    font-weight: 600;
+    font-size: 29px;
+}   
+#head1{
+    text-align: center;
+    padding: 50px 60px 1px 60px ;
+}
+#div1{
+    background-color: rgb(255,255,255);
+    border: 1px solid rgb(255,255,255) ;
+    height: 50px;
+}
+#div2{
+    background-color:rgb(49, 109, 195) ;
+    margin: auto;
+    width: 93%;
+    margin: 8px auto 8px auto;
+    height: 30px;
+}
+.divtwo{
+    background-color: rgb(247,248,250); 
+    margin: 0 auto;
+}
+.para{
+    padding: 1px 10px;
+    font-size: 15px ;
+}
+#span1{
+    color:#0ED539 ;
+}
+#spantwo{
+    color: #0E20ED;
+}
+.para{
+    color: hsl(215, 55%, 92%);
+    text-align: justify;
+}
+.paranine{
+    text-align: justify;
+    height: 600px;
+    margin: 20px auto 0px auto ;
+    width: 70%;
+    font-family: sans-serif;
+    background-color: rgb(247, 248, 250);
+}
+#name{
+    color: rgb(102,102,102);
+    font-size: 15px;
+    line-height: 1.9;
+    font-family: sans-serif;
+}
+.fati{
+    background-color: #2755E9;
+    height: 320px;
+    border: 1px solid #2755E9 ;
+
+    /* padding: 10px 5px 10px 5px; */
+    
+}
+.bis{
+    display: inline-block;
+    border: 1px solid #2755E9  ;
+    /* height: 280px; */
+    /* width: 310px; */
+    background-color:#2755E9 ;
+    color: white;
+    padding: 30px 30px 30px 30px;
+
+}
+.qun{
+    font-family: "Merriweather", sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 44px;
+    font-weight: 400;
+    color: white;
+}
+.abi{
+    font-family: "Merriweather" ,sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: white;
+    font-size: 20px;
+    font-size:15px ;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+.imh{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#daily{
+    color: rgb(0,255,0);
+    font-size: 21px;
+}
+.life{
+    background-color: rgb(247,248,250);
+}
+.yup{
+    display: inline-block;
+    width: 350px;
+    height: 180px;
+    padding: 30px ;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.16);
+}
+.yum{
+    display: inline-block;
+    width: 350px;
+    height: 180px;
+    padding: 30px ;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    box-shadow: 0px 8px 20px 0px rgba(0,0,0,0.16);
+    
+}
+.no{
+    margin-top: 30px;
+    margin-right: 30px;
+    margin-left: 50px;
+    text-align: center;
+    background-color:  rgb(247,248,250);
+    padding-bottom: 50px;
+}
+.font{
+    color: rgb(49,109,195);
+    line-height: 23.8px;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: "Merriweather", sans-serif;
+}
+.main{
+    background-color: rgb(255,255,255);
+}
+#int2{
+    color: rgb(49, 109, 195);
+    font-family: "Merriweather";
+    font-weight: 500;
+    font-size: 25px;
+} 
+#head2{
+    padding-left: 30px;
+    padding-top: 40px;
+}
+.set{
+    
+    width: 65%;
+    display: inline-block;
+}
+.wow1{ 
+    border: 1px solid rgb(238,238,238);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    padding: 30px ;
+    margin-bottom: 30px;
+    margin-right: 5px;
+    margin-left: 30px;
+    padding-left: 30px;
+    text-align: left;
+    background-color: rgb(247,248,250);
+}
+.wow2{
+    background-color:  rgb(247,248,250);
+    border: 1px solid rgb(238,238,238);
+    display: inline-block;
+    width: 350px;
+    height: 70px;
+    padding: 30px ;
+    margin-bottom: 30px;
+    margin-right: 5px;
+    margin-left: 30px;
+    padding-left: 30px;
+    text-align: left;
+
+}
+.font-15{
+    display: inline-block;
+    font-size: 20px;
+    text-indent: 20px;
+}
+#head3{
+    
+    padding-top: 15px;
+
+}
+#male{
+    display: inline-block;
+    width: 30%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin: 0;
+    
+}
+#fe{
+    
+    width: 300px;
+    text-align: justify;
+    padding: 10px 20px;
+    color:rgb(102,102,102);
+}
+#cold{
+    display: inline-block;
+}
+#hot{
+    
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-bottom: 150px;
+}
+
+#last{
+    background-color: #25272E;
+    height: 420px;
+}
+ul , li{
+    color: #B5B5B6;
+}
+#come1{
+    border: 1px solid  #25272E;
+    padding-top: 80px;
+    padding-left: 40px;
+    width: 40%;
+    display: inline-block;
+
+}
+
+#come2{
+    display: inline-block;
+    border: 1px solid  #25272E;
+    width: 25%;
+    height:200px;
+    padding: 20px;
+    vertical-align: 200px;
+}
+#come3{
+    display: inline-block;
+    border: 1px solid  #25272E;
+    width: 25%;
+    line-height: 50px;
+    height:200px;
+    padding: 20px; 
+}
+
+#re{
+    display: inline-block;
+    color: white;
+    font-size: 15px;
+    font-family: "Merriweather" , sans-serif;
+
+}
+.src{
+    padding-bottom: 300px;
+}
+
+
+.pst{
+    width: 100%;
+    background-color: rgb(49, 109, 195);
+    height: 40px;
+}
+#time{
+    color: white;
+    font-size: small;
+    padding-top: 10px;
+    padding-left: 80px;
+}
+.dad{
+    right: 20px;
+    bottom: 30px;
+    position: fixed;
+}
